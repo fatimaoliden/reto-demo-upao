@@ -1,0 +1,12 @@
+{
+  "ventas": [
+    {
+      "numero": "5",
+      "producto": "Reloj",
+      "cantidad": "6",
+      "precio": "230",
+      "total": 1380,
+      "id": 1
+    }
+  ]
+}
